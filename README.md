@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akella Srinivas
 - 👀 I’m interested in Artifitial Intellegence & Machine learning
 - 🌱 I’m currently learning machine learning ,natural language processing and frontend development
-- 💞️ I’m looking to collaborate on machine leaning and data science
+- 💞️ I’m looking to collaborate on Machine leaning , Data science , NLP , Artifitial intellegence
 - 📫 How to reach me  akellasrinivas322@gmail.com
 
 <!---
